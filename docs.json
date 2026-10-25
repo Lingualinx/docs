@@ -81,5 +81,9 @@
   },
   "appearance": {
     "default": "light"
+  },
+  "fonts": {
+    "family": "Heebo",
+    "weight": 500
   }
 }
